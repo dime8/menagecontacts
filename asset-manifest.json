@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github/io/managecontacts/static/css/main.36497136.chunk.css",
-    "main.js": "/github/io/managecontacts/static/js/main.51105efa.chunk.js",
-    "main.js.map": "/github/io/managecontacts/static/js/main.51105efa.chunk.js.map",
-    "runtime~main.js": "/github/io/managecontacts/static/js/runtime~main.a9ffc6af.js",
-    "runtime~main.js.map": "/github/io/managecontacts/static/js/runtime~main.a9ffc6af.js.map",
-    "static/css/2.0624914a.chunk.css": "/github/io/managecontacts/static/css/2.0624914a.chunk.css",
-    "static/js/2.1679b882.chunk.js": "/github/io/managecontacts/static/js/2.1679b882.chunk.js",
-    "static/js/2.1679b882.chunk.js.map": "/github/io/managecontacts/static/js/2.1679b882.chunk.js.map",
-    "index.html": "/github/io/managecontacts/index.html",
-    "precache-manifest.2e3727d8f303e4b52ff99b314c4f3dd9.js": "/github/io/managecontacts/precache-manifest.2e3727d8f303e4b52ff99b314c4f3dd9.js",
-    "service-worker.js": "/github/io/managecontacts/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/github/io/managecontacts/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/github/io/managecontacts/static/css/main.36497136.chunk.css.map"
+    "main.css": "/managecontacts/static/css/main.36497136.chunk.css",
+    "main.js": "/managecontacts/static/js/main.1be61965.chunk.js",
+    "main.js.map": "/managecontacts/static/js/main.1be61965.chunk.js.map",
+    "runtime~main.js": "/managecontacts/static/js/runtime~main.89c4161c.js",
+    "runtime~main.js.map": "/managecontacts/static/js/runtime~main.89c4161c.js.map",
+    "static/css/2.0624914a.chunk.css": "/managecontacts/static/css/2.0624914a.chunk.css",
+    "static/js/2.1679b882.chunk.js": "/managecontacts/static/js/2.1679b882.chunk.js",
+    "static/js/2.1679b882.chunk.js.map": "/managecontacts/static/js/2.1679b882.chunk.js.map",
+    "index.html": "/managecontacts/index.html",
+    "precache-manifest.5c95e1da7a29f3399999b60a3c8901cb.js": "/managecontacts/precache-manifest.5c95e1da7a29f3399999b60a3c8901cb.js",
+    "service-worker.js": "/managecontacts/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/managecontacts/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/managecontacts/static/css/main.36497136.chunk.css.map"
   }
 }
